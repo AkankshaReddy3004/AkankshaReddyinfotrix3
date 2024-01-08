@@ -7,10 +7,11 @@ body {
     text-align: center;
 }
 
-.container{    
-    background-image: url('./images/nature.jpg')!important;
+.container {    
+    background-image: url('./quotes/ak.jpg') !important;
     background-size: contain;
 }
+
 
 header {
     background-color: #975ac0;
