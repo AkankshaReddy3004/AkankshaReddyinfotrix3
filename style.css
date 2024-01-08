@@ -8,7 +8,7 @@ body {
 }
 
 .container {    
-    background-image: url('file:///C:/Users/monus/OneDrive/Desktop/quotes/uio.jpg') !important;
+    background-image: url('./quotes/uio.jpg') !important;
     background-size: contain;
 }
 
